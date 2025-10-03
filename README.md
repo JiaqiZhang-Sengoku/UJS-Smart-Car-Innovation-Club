@@ -17,7 +17,7 @@
 
 ## 参与编写成员
 
-**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)
+**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight)
 
 <a href="https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
@@ -111,6 +111,15 @@
 
 - [**分类训练项目**](https://github.com/XCMB-haochi/Classify_Train_Proj_RELEASE) - 图像分类训练相关代码
 - [**智能车主控代码**](https://github.com/XCMB-haochi/SmartCar20TH_SV_RELEASE) - 智能车控制系统代码
+
+</details>
+
+<details>
+<summary>平衡轮腿组</summary>
+
+**组员**：[@杨奥](https://github.com/evil0knight)（物联网2403，软件）
+
+- [**JSU_Infin0**](https://github.com/evil0knight/JSU_Infin0.git) - 省2代码备份,包含前期寒假备赛日记,本人智寡才轻,其中滋味,需后人自我体会
 
 </details>
 
