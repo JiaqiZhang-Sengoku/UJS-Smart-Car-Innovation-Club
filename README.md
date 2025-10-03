@@ -17,9 +17,11 @@
 
 ## 参与编写成员
 
-**主要贡献者**：[@张家旗](https://github.com/Sengokuuuu) · [@徐奕博](https://github.com/XCMB-haochi) · [@杨果](https://github.com/Rcheeseburger)
+**🦉Contributors**: [@张家旗](https://github.com/Sengokuuuu) · [@徐奕博](https://github.com/XCMB-haochi) · [@杨果](https://github.com/Rcheeseburger)
 
-查看所有贡献者 → [Contributors](https://github.com/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club/graphs/contributors)
+<a href="https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
+</a>
 
 ---
 
