@@ -7,7 +7,7 @@
 </blockquote>
 
 # 参与编写成员
-<p><b>🦉Contributors</b>: <a href="https://github.com/Sengokuuuu">张家旗</a>, <a href="https://github.com/XCMB-haochi">徐奕博</a>.</p> 
+<p><b>🦉Contributors</b>: <a href="https://github.com/Sengokuuuu"> 张家旗 </a>, <a href="https://github.com/XCMB-haochi"> 徐奕博 </a>, <a href="https://github.com/Rcheeseburger"> 杨果 </a>.</p> 
 
 <a href="https://github.com/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club/graphs/contributors">
   <img src="" />
