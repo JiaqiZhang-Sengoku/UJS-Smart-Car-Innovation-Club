@@ -115,3 +115,7 @@
 </details>
 
 </details>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=UJS-Smart-Car-Innovation-Club/UJS-Smart-Car-Innovation-Club&type=Date)](https://www.star-history.com/#UJS-Smart-Car-Innovation-Club/UJS-Smart-Car-Innovation-Club&Date)
