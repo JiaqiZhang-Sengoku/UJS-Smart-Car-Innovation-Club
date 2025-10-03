@@ -1,0 +1,29 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# LaTeX compiled PDFs in source directories (keep PDFs in version root only)
+**/source/**/*.pdf
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

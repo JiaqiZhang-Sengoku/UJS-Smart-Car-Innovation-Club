@@ -1,0 +1,406 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[UTF8]{ctex}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+\usepackage{minted}
+\usepackage{fontawesome5}
+
+% 页面设置
+\geometry{left=2.5cm,right=2.5cm,top=3cm,bottom=3cm}
+
+% 修正页眉高度警告
+\setlength{\headheight}{25pt}
+
+% 颜色定义
+\definecolor{smartblue}{RGB}{52, 152, 219}
+\definecolor{smartorange}{RGB}{230, 126, 34}
+\definecolor{smartgray}{RGB}{149, 165, 166}
+\definecolor{codebg}{RGB}{248, 248, 248}
+
+% 超链接设置
+\hypersetup{
+    colorlinks=true,
+    linkcolor=smartblue,
+    urlcolor=smartblue,
+    citecolor=smartblue
+}
+
+% 页眉页脚设置
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{smartblue}{\textbf{智能车创新社 - 新成员指导手册}}}
+\fancyhead[R]{\textcolor{smartgray}{\thepage}}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{smartblue}\leaders\hrule height \headrulewidth\hfill}}
+
+% 标题样式设置
+\usepackage{titlesec}
+\titleformat{\section}
+  {\Large\bfseries\color{smartblue}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\large\bfseries\color{smartorange}}
+  {\thesubsection}{1em}{}
+
+% 自定义框架
+\newtcolorbox{tipbox}[1][]{
+  colback=smartblue!5,
+  colframe=smartblue,
+  coltitle=white,
+  colbacktitle=smartblue,
+  title={\faLightbulb\ 提示},
+  fonttitle=\bfseries,
+  #1
+}
+
+\newtcolorbox{warningbox}[1][]{
+  colback=smartorange!5,
+  colframe=smartorange,
+  coltitle=white,
+  colbacktitle=smartorange,
+  title={\faExclamationTriangle\ 注意},
+  fonttitle=\bfseries,
+  #1
+}
+
+\newtcolorbox{codebox}[1][]{
+  colback=codebg,
+  colframe=smartgray,
+  title={\faCode\ 代码示例},
+  fonttitle=\bfseries,
+  #1
+}
+
+% 文档信息
+\title{\Huge\textbf{\textcolor{smartblue}{智能车创新社}} \\ \Large\textcolor{smartorange}{新成员指导手册}}
+\author{智能车创新社指导团队}
+\date{\today}
+
+\begin{document}
+
+% 封面页
+\begin{titlepage}
+\centering
+
+% 背景装饰
+\tikz[remember picture,overlay] \node[opacity=0.1] at (current page.center) {\includegraphics[width=20cm]{avatar.jpg}};
+
+\vspace*{2cm}
+
+% 主标题
+{\Huge\textbf{\textcolor{smartblue}{智能车创新社}}\par}
+\vspace{0.5cm}
+{\Large\textcolor{smartorange}{Smart Car Club}\par}
+
+\vspace{2cm}
+
+% 头像
+\begin{tikzpicture}
+\node[circle, minimum size=4cm, path picture={
+    \node at (path picture bounding box.center){
+        \includegraphics[width=4cm]{avatar.jpg}
+    };
+}] {};
+\end{tikzpicture}
+
+\vspace{2cm}
+
+% 副标题
+{\LARGE\textbf{\textcolor{smartblue}{25-26年度软件组指导手册}}\par}
+\vspace{0.5cm}
+{\large\textcolor{smartgray}{Tutorial for software team(year 25-26)}\par}
+
+\vspace{3cm}
+
+% 作者信息
+{\large\textbf{BY：}\par}
+\vspace{0.5cm}
+{\large 通信2402 徐奕博\par}
+
+\vspace{1.5cm}
+
+% 日期
+{\large\textcolor{smartgray}{\today}\par}
+
+\end{titlepage}
+
+% 目录
+\newpage
+\tableofcontents
+\newpage
+
+% 正文开始
+\section{Welcome to Smart Car Club！}
+
+\subsection{自我介绍}
+本人是来自通信工程2402的徐奕博（总群头像右三），目前大二，GPA 4.32/5.00(RANK 2)，2024年和你们一样以新生身份加入了智能车社团并开始了崎岖的学习过程，当时社团并没有一个详细的学习指导，好在本人向来爱捣鼓一些“乱七八糟”的东西，虽然浪费了不少时间，最终还是逐步掌握了一些基本功。
+
+但是我知道，
+
+\begin{tipbox}
+智能车创新社不仅是一个技术社团，更是一个充满创新精神和协作氛围的大家庭。在这里，你将：
+\begin{itemize}
+    \item 掌握前沿的技术工具和开发方法
+    \item 参与实际的智能车项目开发
+    \item 与志同道合的伙伴共同成长
+    \item 培养解决复杂问题的能力
+\end{itemize}
+\end{tipbox}
+
+\subsection{社团概况}
+
+智能车创新社致力于培养学生的创新精神和实践能力，通过智能车竞赛、技术分享、项目实战等形式，帮助成员在电子、计算机、机械等多个领域全面发展。
+
+\section{工科大学生必备基础工具}
+
+作为工科学生，掌握正确的工具是提高学习和工作效率的关键。以下是我们强烈推荐的基础工具套装：
+
+\subsection{代码编辑器 - Visual Studio Code}
+
+VS Code 是目前最受欢迎的代码编辑器之一，具有以下优势：
+
+\begin{itemize}
+    \item \textbf{跨平台支持}：Windows、macOS、Linux 全平台支持
+    \item \textbf{丰富的扩展生态}：数万个插件可供选择
+    \item \textbf{内置Git支持}：版本控制更加便捷
+    \item \textbf{智能代码提示}：IntelliSense 功能强大
+\end{itemize}
+
+\begin{codebox}
+推荐安装的扩展：
+\begin{itemize}
+    \item Chinese (Simplified) Language Pack - 中文语言包
+    \item GitLens - Git 增强工具
+    \item Bracket Pair Colorizer - 括号配对着色
+    \item Auto Rename Tag - HTML标签自动重命名
+    \item Live Server - 本地服务器
+\end{itemize}
+\end{codebox}
+
+\subsection{网络工具 - VPN的使用}
+
+在学习和研究过程中，我们经常需要访问国外的技术资源：
+
+\begin{itemize}
+    \item \textbf{GitHub}：世界最大的代码托管平台
+    \item \textbf{Stack Overflow}：程序员问答社区
+    \item \textbf{arXiv}：学术论文预印本库
+    \item \textbf{YouTube}：技术教学视频资源
+\end{itemize}
+
+\begin{warningbox}
+请确保使用合法合规的网络工具，遵守相关法律法规。推荐使用学校提供的教育网资源或合法的学术访问途径。
+\end{warningbox}
+
+\subsection{版本控制 - Git \& GitHub}
+
+Git 是现代软件开发的核心工具，GitHub 是代码协作的重要平台：
+
+\subsubsection{Git 基础概念}
+\begin{itemize}
+    \item \textbf{仓库(Repository)}：项目的版本控制数据库
+    \item \textbf{提交(Commit)}：保存项目的一个快照
+    \item \textbf{分支(Branch)}：独立的开发线
+    \item \textbf{合并(Merge)}：将不同分支的更改合并
+\end{itemize}
+
+\subsubsection{GitHub 使用指南}
+\begin{enumerate}
+    \item 创建 GitHub 账号
+    \item 学习基本的 Git 命令
+    \item 创建第一个仓库
+    \item 学习 Fork 和 Pull Request 工作流
+\end{enumerate}
+
+\subsection{AI 编程助手}
+
+现代开发离不开 AI 工具的帮助，以下是推荐的 AI 编程助手：
+
+\subsubsection{GitHub Copilot}
+\begin{itemize}
+    \item 基于 OpenAI Codex 的 AI 代码助手
+    \item 可以根据注释自动生成代码
+    \item 支持多种编程语言
+    \item 学生可免费使用
+\end{itemize}
+
+\subsubsection{Claude Code}
+\begin{itemize}
+    \item Anthropic 推出的 AI 编程助手
+    \item 擅长代码解释和调试
+    \item 支持多轮对话和上下文理解
+    \item 可以帮助学习编程概念
+\end{itemize}
+
+\section{学习方法论与心态指导}
+
+\subsection{正确的学习心态}
+
+\begin{tipbox}
+\textbf{成长型思维}：相信能力可以通过努力和学习得到提升，将挑战视为成长的机会。
+\end{tipbox}
+
+\subsubsection{核心原则}
+\begin{enumerate}
+    \item \textbf{持续学习}：技术更新迅速，保持学习热情
+    \item \textbf{实践导向}：理论与实践相结合
+    \item \textbf{问题解决}：培养独立解决问题的能力
+    \item \textbf{协作精神}：学会与他人合作和分享
+\end{enumerate}
+
+\subsection{高效学习方法}
+
+\subsubsection{费曼学习法}
+\begin{enumerate}
+    \item 选择要学习的概念
+    \item 用简单的语言解释给别人听
+    \item 发现知识盲点并回到原始资料
+    \item 简化和完善解释
+\end{enumerate}
+
+\subsubsection{项目驱动学习}
+\begin{itemize}
+    \item 从小项目开始
+    \item 设定明确的目标
+    \item 迭代改进
+    \item 记录学习过程
+\end{itemize}
+
+\section{技术学习路线图}
+
+\subsection{基础阶段（第1-2个月）}
+\begin{itemize}
+    \item 熟练使用开发工具（VS Code、Git）
+    \item 掌握至少一门编程语言（推荐 Python 或 C++）
+    \item 了解基本的算法和数据结构
+    \item 完成第一个小项目
+\end{itemize}
+
+\subsection{进阶阶段（第3-6个月）}
+\begin{itemize}
+    \item 深入学习智能车相关技术
+    \item 掌握嵌入式开发基础
+    \item 学习传感器数据处理
+    \item 参与团队项目开发
+\end{itemize}
+
+\subsection{高级阶段（第6个月以后）}
+\begin{itemize}
+    \item 专攻某个技术方向（如计算机视觉、控制算法等）
+    \item 参与竞赛项目
+    \item 指导新成员
+    \item 技术分享和开源贡献
+\end{itemize}
+
+\section{一个月后的考核标准}
+
+为了确保大家的学习效果，我们将在一个月后进行考核评估：
+
+\subsection{技术能力考核}
+\begin{enumerate}
+    \item \textbf{工具使用}（30\%）
+    \begin{itemize}
+        \item VS Code 基本操作和插件使用
+        \item Git 基本命令和 GitHub 操作
+        \item 开发环境搭建
+    \end{itemize}
+
+    \item \textbf{编程基础}（40\%）
+    \begin{itemize}
+        \item 完成指定的编程练习题
+        \item 代码规范和注释质量
+        \item 问题分析和解决能力
+    \end{itemize}
+
+    \item \textbf{项目实践}（30\%）
+    \begin{itemize}
+        \item 独立完成一个小项目
+        \item 项目文档和说明
+        \item 代码质量和可维护性
+    \end{itemize}
+\end{enumerate}
+
+\subsection{学习态度考核}
+\begin{itemize}
+    \item 学习笔记的质量和完整性
+    \item 技术分享和讨论的参与度
+    \item 团队协作和沟通能力
+    \item 自主学习和问题解决的主动性
+\end{itemize}
+
+\subsection{具体考核内容}
+\begin{enumerate}
+    \item \textbf{技术答辩}：针对学习内容进行技术问答
+    \item \textbf{代码Review}：展示并解释自己的项目代码
+    \item \textbf{工具演示}：现场演示开发工具的使用
+    \item \textbf{学习总结}：分享学习心得和遇到的挑战
+\end{enumerate}
+
+\section{学习资源推荐}
+
+\subsection{在线课程平台}
+\begin{itemize}
+    \item \textbf{中国大学MOOC}：高质量的中文课程
+    \item \textbf{Coursera}：世界顶级大学课程
+    \item \textbf{Udacity}：实践导向的技术课程
+    \item \textbf{B站}：丰富的免费技术教程
+\end{itemize}
+
+\subsection{技术社区}
+\begin{itemize}
+    \item \textbf{CSDN}：中文技术社区
+    \item \textbf{掘金}：前端技术分享平台
+    \item \textbf{Stack Overflow}：程序员问答社区
+    \item \textbf{GitHub}：开源项目和代码分享
+\end{itemize}
+
+
+\section{联系方式与后续安排}
+
+\subsection{指导团队联系方式}
+\begin{itemize}
+    \item QQ总群：[185259885]
+    \item 软件组QQ群：[1065664979 ]
+    \item 邮箱：xyb114xcmb@outlook.com
+\end{itemize}
+
+\subsection{学习安排}
+\begin{enumerate}
+    \item \textbf{第一周}：工具安装和环境搭建
+    \item \textbf{第二周}：编程基础和 Git 使用
+    \item \textbf{第三周}：项目实践开始
+    \item \textbf{第四周}：项目完善和准备考核
+\end{enumerate}
+
+\begin{tipbox}
+记住：学习是一个持续的过程，不要害怕犯错，每个错误都是成长的机会。我们的指导团队随时为大家提供帮助和支持！
+\end{tipbox}
+
+\section{结语}
+
+欢迎你加入智能车创新社这个大家庭！这里不仅是技术学习的平台，更是实现创新梦想的舞台。希望通过这份指导手册，能够帮助你快速适应社团的学习节奏，掌握必要的技术技能。
+
+在接下来的学习过程中，请记住：
+\begin{itemize}
+    \item 保持好奇心和学习热情
+    \item 积极参与讨论和实践
+    \item 不断挑战自己的能力边界
+    \item 与团队成员协作共进
+\end{itemize}
+
+我们相信，通过一个月的系统学习和实践，你一定能够顺利通过考核，成为智能车创新社的正式成员。让我们一起在技术的海洋中遨游，创造属于我们的精彩！
+
+\vspace{2cm}
+\begin{center}
+\textit{功名半纸，风雪千山}
+\end{center}
+
+\end{document}

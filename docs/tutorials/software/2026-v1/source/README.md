@@ -1,0 +1,1 @@
+This a tutorial for the freshmen of 2025 who are willing to join the Smart Car Club.
