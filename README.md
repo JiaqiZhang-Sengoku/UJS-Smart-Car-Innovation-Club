@@ -59,27 +59,16 @@
 
 #### 👥 主要成员
 
-<div style="width:100%;">
-
-| **社长** | **副社长** | **团支书** |
+|&emsp;&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;&emsp; |
 |:------:|:------:|:------:|
-| **张家旗** | **随一鹏** | **杨果** |
-
-</div>
-
-
-
+| **张家旗** | **随一鹏** | **杨果** | 
 
 ### 2025学年
 #### 👥 主要成员
 
-<div style="width:100%;">
-
-| **社长** | **副社长** | **团支书** | **软件组组长** |
+|&emsp;&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **软件组组长** &emsp;&emsp;&emsp;&emsp;&emsp;|
 |:------:|:------:|:------:|:------:|
 | **王浩民** | **卢帅** | **王一卜** | **徐奕博** |
-
-</div>
 
 </details>
 
