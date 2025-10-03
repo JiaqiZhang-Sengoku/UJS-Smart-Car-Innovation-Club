@@ -101,4 +101,17 @@
 
 ## 项目代码
 
-- 敬请期待...
+<details>
+<summary>第20届全国大学生智能汽车竞赛</summary>
+
+<details>
+<summary>智能视觉组</summary>
+
+**组员**：[@徐奕博](https://github.com/XCMB-haochi)（通信2402，软件）· 王浩民（电信2403，软件）· 严俊涵（测控2502，硬件）
+
+- [**分类训练项目**](https://github.com/XCMB-haochi/Classify_Train_Proj_RELEASE) - 图像分类训练相关代码
+- [**智能车主控代码**](https://github.com/XCMB-haochi/SmartCar20TH_SV_RELEASE) - 智能车控制系统代码
+
+</details>
+
+</details>
