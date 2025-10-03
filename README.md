@@ -66,7 +66,7 @@
 ### 2025学年
 #### 👥 主要成员
 
-|&emsp;&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp; **软件组组长** &emsp;&emsp;&emsp;&emsp;&emsp;|
+|&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp; **软件组组长** &emsp;&emsp;&emsp;&emsp;|
 |:------:|:------:|:------:|:------:|
 | **王浩民** | **卢帅** | **王一卜** | **徐奕博** |
 
