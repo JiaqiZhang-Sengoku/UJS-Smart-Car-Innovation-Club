@@ -59,7 +59,7 @@
 
 #### 👥 主要成员
 
-|&emsp;&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;&emsp; |
+|&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp; **副社长** &emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;|
 |:------:|:------:|:------:|
 | **张家旗** | **随一鹏** | **杨果** | 
 
