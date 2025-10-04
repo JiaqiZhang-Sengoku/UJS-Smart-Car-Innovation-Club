@@ -17,7 +17,7 @@
 
 ## ✍️ 参与编写成员
 
-**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight).
+**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172).
 
 <a href="https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
@@ -94,7 +94,11 @@
   - 调试工具与技巧
 
 ### 硬件组
-- 敬请期待...
+- [**硬件组教程**](https://github.com/dhawu172/smart-car/blob/master/%E7%A1%AC%E4%BB%B6%E5%9F%B9%E8%AE%AD.pdf) - 2026届起
+  -硬件组职阐述
+  -EDA 操作教学
+  -PCB 布规学习
+  -硬件知识讲解
 
 ### 百度组
 - 敬请期待...
@@ -125,10 +129,10 @@
 <details>
 <summary>平衡轮腿组</summary>
 
-**组员**：王一卜(电卓2401, 硬件) · [@杨奥](https://github.com/evil0knight)(物联网2403，软件) · 邹文(机械2305, 软件)
+**组员**：[@王一卜](https://github.com/dhawu172)(电卓2401，硬件) · [@杨奥](https://github.com/evil0knight)(物联网2403，软件) · 邹文(机械2305, 软件)
 
 - [**JSU_Infin0**](https://github.com/evil0knight/JSU_Infin0.git) - 省2代码备份,包含前期寒假备赛日记,本人智寡才轻,其中滋味,需后人自我体会
-
+- [**dhawu172**](https://github.com/dhawu172/smart-car.git)- 20届轮腿硬件pcb文件
 </details>
 
 </details>
