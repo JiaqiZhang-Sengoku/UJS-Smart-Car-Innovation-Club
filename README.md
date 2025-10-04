@@ -65,6 +65,14 @@
 |:------:|:------:|:------:|
 | **张家旗** | **随一鹏** | **杨果** | 
 
+#### 📸 事件记录
+
+##### 2025年07月26日 智能车省赛
+![](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_0.jpg)
+![](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_1.jpg)
+![拍摄于2025年07月26日；地点:南京信息工程大学](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_2.jpg)
+拍摄于2025年07月26日；地点 : 南京信息工程大学
+
 ### 2025学年
 #### 👥 主要成员
 
