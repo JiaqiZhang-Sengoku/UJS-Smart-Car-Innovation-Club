@@ -95,10 +95,10 @@
 
 ### 硬件组
 - [**硬件组教程**](https://github.com/dhawu172/smart-car/blob/master/%E7%A1%AC%E4%BB%B6%E5%9F%B9%E8%AE%AD.pdf) - 2026届起
-  -硬件组职阐述
-  -EDA 操作教学
-  -PCB 布规学习
-  -硬件知识讲解
+  - 硬件组职阐述
+  - EDA 操作教学
+  - PCB 布规学习
+  - 硬件知识讲解
 
 ### 百度组
 - 敬请期待...
