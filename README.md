@@ -125,7 +125,7 @@
 <details>
 <summary>平衡轮腿组</summary>
 
-**组员**：王一卜(电卓2401, 硬件)· [@杨奥](https://github.com/evil0knight)（物联网2403，软件） · 邹文(机械2305, 软件)
+**组员**：王一卜(电卓2401, 硬件) · [@杨奥](https://github.com/evil0knight)(物联网2403，软件) · 邹文(机械2305, 软件)
 
 - [**JSU_Infin0**](https://github.com/evil0knight/JSU_Infin0.git) - 省2代码备份,包含前期寒假备赛日记,本人智寡才轻,其中滋味,需后人自我体会
 
