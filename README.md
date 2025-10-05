@@ -139,4 +139,4 @@
 
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sengokuuuu/UJS-Smart-Car-Innovation-Club&type=Date)](https://star-history.com/#Sengokuuuu/UJS-Smart-Car-Innovation-Club&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Sengokuuuu/UJS-Smart-Car-Innovation-Club&type=Date&t=1)](https://star-history.com/#Sengokuuuu/UJS-Smart-Car-Innovation-Club&Date)
