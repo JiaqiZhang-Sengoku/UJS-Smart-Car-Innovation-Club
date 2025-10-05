@@ -20,7 +20,7 @@
 **🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172).
 
 <a href="https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
+  <img src="https://contributors-img.web.app/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
 </a>
 
 ---
