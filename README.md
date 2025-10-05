@@ -3,7 +3,7 @@
 # 江苏大学智能车创新社
 # Jiangsu University Smart Car Innovation Club
 
-[![Contributors](https://img.shields.io/github/contributors/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club/graphs/contributors) [![Stars](https://img.shields.io/github/stars/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/Sengokuuuu/UJS-Intelligent-Vehicle-Innovation-Club/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club/graphs/contributors) [![Stars](https://img.shields.io/github/stars/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club/stargazers)
 
 </div>
 
@@ -19,8 +19,8 @@
 
 **🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172).
 
-<a href="https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Sengokuuuu/UJS-Smart-Car-Innovation-Club" />
+<a href="https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club" />
 </a>
 
 ---
@@ -68,9 +68,9 @@
 #### 📸 事件记录
 
 ##### 2025年07月26日 智能车省赛
-![](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_0.jpg)
-![](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_1.jpg)
-![拍摄于2025年07月26日；地点:南京信息工程大学](https://github.com/Sengokuuuu/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_2.jpg)
+![](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_0.jpg)
+![](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_1.jpg)
+![拍摄于2025年07月26日；地点:南京信息工程大学](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2024/20250726_2.jpg)
 拍摄于2025年07月26日；地点 : 南京信息工程大学
 
 ### 2025学年
@@ -139,4 +139,4 @@
 
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sengokuuuu/UJS-Smart-Car-Innovation-Club&type=Date&t=1)](https://star-history.com/#Sengokuuuu/UJS-Smart-Car-Innovation-Club&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club&type=Date&t=1)](https://star-history.com/#JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club&Date)
