@@ -3,7 +3,7 @@
 # 江苏大学智能车创新社
 # Jiangsu University Smart Car Innovation Club
 
-[![Contributors](https://img.shields.io/github/contributors/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club/graphs/contributors) [![Stars](https://img.shields.io/github/stars/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Intelligent-Vehicle-Innovation-Club/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/graphs/contributors) [![Stars](https://img.shields.io/github/stars/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club)](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/stargazers)
 
 </div>
 
