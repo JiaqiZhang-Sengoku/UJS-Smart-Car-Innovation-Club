@@ -1,5 +1,3 @@
-<div align="center">
-
 # 江苏大学智能车创新社
 # Jiangsu University Smart Car Innovation Club
 
@@ -56,6 +54,11 @@
 
 ### 2023学年
 
+#### 👥 主要成员
+
+|&emsp;&emsp;&emsp;&emsp; **社长** &emsp;&emsp;&emsp;&emsp; |&emsp;&emsp;&emsp;&emsp; **团支书** &emsp;&emsp;&emsp;&emsp;|
+|:------:|:------:|
+| **随一鹏** | **周旭** | 
 
 ### 2024学年
 
