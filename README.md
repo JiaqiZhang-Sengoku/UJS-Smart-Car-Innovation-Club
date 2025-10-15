@@ -117,6 +117,20 @@
 ## 📂 项目代码
 
 <details>
+<summary>第19届全国大学生智能汽车竞赛</summary>
+
+<details>
+<summary>独轮组</summary>
+
+**组员**：王梓宇（机器人2201，软件）· [@杨宇航](https://github.com/yyh-2004)（自动化2204，硬件）· 葛泽宇（机器人2201，视觉）
+
+- [**独轮车主控代码和硬件PCB**](https://github.com/yyh-2004/Monotroch_information.git) - 独轮车主控代码和硬件PCB
+
+</details>
+
+</details>
+
+<details>
 <summary>第20届全国大学生智能汽车竞赛</summary>
 
 <details>
