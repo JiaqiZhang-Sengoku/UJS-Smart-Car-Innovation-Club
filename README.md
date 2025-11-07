@@ -110,7 +110,7 @@
 
 ## 💻 技术经验
 
-- 敬请期待...
+- [rtos+智能车框架搭建](https://github.com/chenxiannn/The-Little-Embedded-System.git)  
 
 ---
 
