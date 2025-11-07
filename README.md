@@ -111,6 +111,8 @@
 ## 💻 技术经验
 
 - [rtos+智能车框架搭建](https://github.com/chenxiannn/The-Little-Embedded-System.git)  
+- [嵌入式工程师资料拓展](https://github.com/zhengnianli/EmbedSummary.git)  
+- [嵌入式工程师软件就业向:面试记录](https://github.com/xiaowenxia/embedded-notes.git)  
 
 ---
 
