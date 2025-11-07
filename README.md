@@ -140,6 +140,7 @@
 
 
 </details>
+-[硬件学习网站](https://oshwhub.com/explore)  
 
 ---
 
