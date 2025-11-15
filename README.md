@@ -110,39 +110,7 @@
 
 ## 💻 技术经验
 
-- [rtos+智能车框架搭建](https://github.com/chenxiannn/The-Little-Embedded-System.git)  
-- [嵌入式工程师资料拓展](https://github.com/zhengnianli/EmbedSummary.git)  
-- [嵌入式工程师软件就业向:面试记录](https://github.com/xiaowenxia/embedded-notes.git)
-- [开源部分资料汇总](https://github.com/ittuann/Awesome-IntelligentCarRace)
-<details>
-<summary>智能车开源代码,请后期仔细研究</summary>
-## 资源合集
-- [智能车竞赛开源项目合集](https://github.com/ittuann/Awesome-IntelligentCarRace)
 
-## 摄像头组
-- [第11届恩智浦杯摄像头组华南二等奖源码](https://github.com/ischansgithub/MY_NXP_SMART_CAR)
-- [飞思卡尔智能车光电组程序](https://github.com/zhang555/smart_car)
-
-## 电磁组
-- [第13届恩智浦杯电磁直立组-成都信息工程大学](https://github.com/Kevincoooool/2018-NXP-CUIT-WD)
-- [第13届智能车竞赛电磁直立组-山东赛区三等奖](https://github.com/Donghao-Zhao/Electromagnetic-Upright-Smart-Car)
-
-## 完全模型组
-- [第17届智能车竞赛完全模型组国家二等奖](https://github.com/C-Dchen/Smart_Car)
-
-## 室外组
-- [室外远程驾驶无人车赛源码](https://github.com/sana-u/smartCar)
-
-## 技术实现
-- [基于FPGA的循迹小车](https://github.com/W-Mai/Tracking-Car)
-- [飞思卡尔智能车竞赛源代码-含记忆算法](https://github.com/xfguo/freescalesmartcar)
-- [全国大学生智能汽车竞赛二等奖](https://github.com/happyCoding1024/National-College-Student-Intelligent-Car-Competition)
-
-
-</details>
--[硬件学习网站](https://oshwhub.com/explore)  
-
----
 
 ## 📂 项目代码
 
@@ -178,7 +146,7 @@
 
 **组员**：[@王一卜](https://github.com/dhawu172)(电卓2401，硬件) · [@杨奥](https://github.com/evil0knight)(物联网2403，软件) · 邹文(机械2305, 软件)
 
-- [**JSU_Infin0**](https://github.com/evil0knight/JSU_Infin0.git) - 省2代码备份,包含前期寒假备赛日记,本人智寡才轻,其中滋味,需后人自我体会
+- [**JSU_Infin0**](https://github.com/evil0knight/JSU_Infin0.git) - 省2代码备份
 - [**轮腿硬件PCB**](https://github.com/dhawu172/smart-car.git)- 20届轮腿硬件pcb文件
 </details>
 
