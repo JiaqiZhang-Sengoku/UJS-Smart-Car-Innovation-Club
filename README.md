@@ -15,7 +15,7 @@
 
 ## ✍️ 参与编写成员
 
-**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Rcheeseburger)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172)· [@杨宇航(自动化2204)](https://github.com/yyh-2004).
+**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Luofaiz)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172)· [@杨宇航(自动化2204)](https://github.com/yyh-2004).
 
 <a href="https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club" />
