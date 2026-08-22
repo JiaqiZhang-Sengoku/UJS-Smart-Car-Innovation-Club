@@ -151,7 +151,3 @@
 </details>
 
 </details>
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club&type=Date&t=1)](https://star-history.com/#JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club&Date)
