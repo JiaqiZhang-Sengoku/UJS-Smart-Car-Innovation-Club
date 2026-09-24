@@ -15,7 +15,7 @@
 
 ## ✍️ 参与编写成员
 
-**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Luofaiz)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172)· [@杨宇航(自动化2204)](https://github.com/yyh-2004).
+**🦉Contributors**: [@张家旗(计算机2303)](https://github.com/Sengokuuuu) · [@徐奕博(通信2402)](https://github.com/XCMB-haochi) · [@杨果(计算机2303)](https://github.com/Luofaiz)· [@杨奥(物联网2403)](https://github.com/evil0knight)· [@王一卜(电卓2401)](https://github.com/dhawu172)· [@杨宇航(自动化2204)](https://github.com/yyh-2004)· [@浦云想(测控2501)](https://github.com/Svalbard-1019)
 
 <a href="https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club" />
@@ -151,3 +151,14 @@
 </details>
 
 </details>
+
+<details>
+<summary>第21届全国大学生智能汽车竞赛</summary>
+  
+<details>
+<summary>卡丁车组</summary>
+
+**组员**：[@浦云想](https://github.com/Svalbard-1019)(测控2501，硬件、调试）
+· [@张鸿飞](https://github.com/Spark-44)（测控2501，软件）· [@何李懿](https://github.com/heliyi-love-stm32)（机电2405，软件）· [@钱梦佳](https://github.com/qian-mengjia)(软件2402，软件)· [@刘春豪](https://github.com/liuchunh)（测控2502，视觉）
+
+- [**卡丁车主控代码和硬件PCB**](https://github.com/Svalbard-1019/21st-intelligent-car-karting-speed-team-jiangsu-university-the-veterans-are-always-right) - 卡丁车主控代码和硬件PCB
