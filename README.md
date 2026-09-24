@@ -162,3 +162,4 @@
 · [@张鸿飞](https://github.com/Spark-44)（测控2501，软件）· [@何李懿](https://github.com/heliyi-love-stm32)（机电2405，软件）· [@钱梦佳](https://github.com/qian-mengjia)(软件2402，软件)· [@刘春豪](https://github.com/liuchunh)（测控2502，视觉）
 
 - [**卡丁车主控代码和硬件PCB**](https://github.com/Svalbard-1019/21st-intelligent-car-karting-speed-team-jiangsu-university-the-veterans-are-always-right) - 卡丁车主控代码和硬件PCB
+- ![](https://github.com/JiaqiZhang-Sengoku/UJS-Smart-Car-Innovation-Club/blob/main/Figures/2026/IMG_20260802_122013.jpg)
